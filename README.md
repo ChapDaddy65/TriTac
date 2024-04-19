@@ -1,4 +1,5 @@
 # TRI-TAC
+![Logo](https://github.com/ChapDaddy65/TriTac/blob/main/logo.png)
 
 Here is the official rules for Tri-Tac. The game aims to maximize the number of "3-in-a-row" combinations before the board is filled. The base version includes scoring objectives and mini challenges to keep the gameplay interesting.
 
